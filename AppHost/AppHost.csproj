@@ -11,6 +11,7 @@
 
   <ItemGroup>
     <PackageReference Include="Aspire.Hosting.AppHost" Version="8.2.2" />
+    <PackageReference Include="Aspire.Hosting.Keycloak" Version="8.2.2-preview.1.24521.5" />
   </ItemGroup>
 
   <ItemGroup>
